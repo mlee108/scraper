@@ -1,0 +1,77 @@
+[
+    {
+        "name": "LEGO Sunflower Bundle",
+        "price": 189.99,
+        "rating": 4.5
+    },
+    {
+        "name": "LEGO Twilight Bundle",
+        "price": 239.99,
+        "rating": 4.8333001136779785
+    },
+    {
+        "name": "LEGO Flower Arrangement",
+        "price": 89.99,
+        "rating": 4.894700050354004
+    },
+    {
+        "name": "LEGO MARVEL Bundle",
+        "price": 89.97,
+        "rating": 5.0
+    },
+    {
+        "name": "LEGO Grogu Bundle",
+        "price": 99.99,
+        "rating": 4.774199962615967
+    },
+    {
+        "name": "LEGO Toy Story Bundle",
+        "price": 94.99,
+        "rating": 0.0
+    },
+    {
+        "name": "Lego Expandable Carry-on & Backpack Luggage Set",
+        "price": 99.99,
+        "rating": 4.690199851989746
+    },
+    {
+        "name": "LEGO Star Wars Logo Bundle",
+        "price": 69.99,
+        "rating": 5.0
+    },
+    {
+        "name": "LEGO Super Mario Bundle",
+        "price": 189.99,
+        "rating": 5.0
+    },
+    {
+        "name": "LEGO Haunted Mansion and Halloween Barn Bundle",
+        "price": 89.99,
+        "rating": 0.0
+    },
+    {
+        "name": "LEGO Japanese Red Maple Bonsai Tree and Cherry Blossoms Bundle",
+        "price": 64.99,
+        "rating": 5.0
+    },
+    {
+        "name": "LEGO CITY Bulldozer and Helicopter, Fire Truck and Submarine Remix Bundle",
+        "price": 99.99,
+        "rating": 5.0
+    },
+    {
+        "name": "LEGOLAND California + Water Park + Sea Life Aquarium - Three Day Resort Hopper",
+        "price": 139.99,
+        "rating": 4.625
+    },
+    {
+        "name": "LEGOLAND Discovery Center Westchester - One Day Admission",
+        "price": 17.99,
+        "rating": 5.0
+    },
+    {
+        "name": "LEGOLAND Discovery Center Columbus - One Day Admission",
+        "price": 17.89,
+        "rating": 4.375
+    }
+]
