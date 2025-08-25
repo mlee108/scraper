@@ -42,6 +42,6 @@ for term in search_terms:
     with open(f'{term}.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=4, default=lambda o: o.__dict__)
 
-    # wait for 5 seconds just in case to avoid any bans
+    # wait for 5 seconds, just in case, to avoid any bans
     print(f'Finished querying {term}, sleeping for 5 seconds')
     time.sleep(5)
